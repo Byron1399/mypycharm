@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16584b48-de1c-48b4-9d7a-77b5e465e771" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dzrJJH2k05i9vTe3dHs9sgHmKP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python 测试.Doctests (hw01 内).executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nand2teirs project 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nand2teirs project6 UPPER.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nand2teirs project6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pta  7-6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pta 7-9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.冒泡排序.executor&quot;: &quot;Run&quot;,
+    &quot;Python.回形针检测.executor&quot;: &quot;Run&quot;,
+    &quot;Python.图像.executor&quot;: &quot;Run&quot;,
+    &quot;Python.天气爬虫.executor&quot;: &quot;Run&quot;,
+    &quot;Python.彩票问题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.文件.executor&quot;: &quot;Run&quot;,
+    &quot;Python.瑕疵检测.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python code/pythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python code\pythonProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="16584b48-de1c-48b4-9d7a-77b5e465e771" name="更改" comment="" />
+      <created>1711021674399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711021674399</updated>
+      <workItem from="1711021681175" duration="3562000" />
+      <workItem from="1711417674722" duration="4405000" />
+      <workItem from="1711605597737" duration="3162000" />
+      <workItem from="1711781474437" duration="811000" />
+      <workItem from="1711942469886" duration="74000" />
+      <workItem from="1712458893740" duration="5301000" />
+      <workItem from="1716199458417" duration="10864000" />
+      <workItem from="1716356491509" duration="39467000" />
+      <workItem from="1716622165096" duration="10408000" />
+      <workItem from="1716774392802" duration="11835000" />
+      <workItem from="1716904773304" duration="319000" />
+      <workItem from="1717220248736" duration="1121000" />
+      <workItem from="1717221941545" duration="914000" />
+      <workItem from="1718157261976" duration="29064000" />
+      <workItem from="1718366520209" duration="2829000" />
+      <workItem from="1718530347083" duration="18563000" />
+      <workItem from="1718588850622" duration="20932000" />
+      <workItem from="1718679978013" duration="12753000" />
+      <workItem from="1718891568660" duration="981000" />
+      <workItem from="1719628471263" duration="6525000" />
+      <workItem from="1721215656557" duration="4262000" />
+      <workItem from="1721287587984" duration="4116000" />
+      <workItem from="1723029894725" duration="308000" />
+      <workItem from="1723030215486" duration="32000" />
+      <workItem from="1723030337613" duration="6202000" />
+      <workItem from="1723527751276" duration="3917000" />
+      <workItem from="1723613149166" duration="7321000" />
+      <workItem from="1723687509328" duration="1474000" />
+      <workItem from="1726281995580" duration="17116000" />
+      <workItem from="1726361558780" duration="18668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nand2teirs project6.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/彩票问题.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$pta_7_9.coverage" NAME="pta 7-9 覆盖结果" MODIFIED="1716905018250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$pta__7_6.coverage" NAME="pta  7-6 覆盖结果" MODIFIED="1718698919037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Doctests__hw01__.coverage" NAME="Doctests (hw01 内) 覆盖结果" MODIFIED="1717220946049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$1.coverage" NAME="1 覆盖结果" MODIFIED="1718592356274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw01.coverage" NAME="hw01 覆盖结果" MODIFIED="1719639730191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="彩票问题 覆盖结果" MODIFIED="1723628622206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$nand2teirs_project_7.coverage" NAME="nand2teirs project 7 覆盖结果" MODIFIED="1726380310959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$2.coverage" NAME="2 覆盖结果" MODIFIED="1718590868352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$3.coverage" NAME="3 覆盖结果" MODIFIED="1716468635777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$nand2teirs_project6.coverage" NAME="nand2teirs project6 覆盖结果" MODIFIED="1718190041523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$nand2teirs_project6_UPPER.coverage" NAME="nand2teirs project6 UPPER 覆盖结果" MODIFIED="1718205785417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test 覆盖结果" MODIFIED="1723618839907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
